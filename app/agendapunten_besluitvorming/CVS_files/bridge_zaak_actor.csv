@@ -1,0 +1,101 @@
+zaak_actor_id,zaak_id,fractie_id,actor_naam,actor_fractie,relatie
+374ef56f-85d7-4371-b78b-83be12711ec6,f4f61cca-c331-478f-ab25-e7697bf57bce,4e9f6f5b-2544-4667-8134-6b85c4ebb4e0,M.C.A. Vellinga-Beemsterboer,D66,Indiener
+374fde96-add5-47f4-bec5-f46a8cde5321,04078178-0ffb-4a3c-81ad-707d268b0a85,a3689bb6-3914-4d5c-a6a8-42e24582e299,R.M. Leijten,SP,Medeindiener
+3752d1d0-4dcd-4d0c-8f69-6bff57505531,b6a7ef4a-1502-4d64-b376-ef64a28ee9e8,ae48391e-ce4d-47e0-86e3-ee310282f66f,M. Koekkoek,Volt,Medeindiener
+3753d84d-cd11-4c15-af41-dd9766994984,b97ad8e0-489c-4cbf-8f43-da455cda22a5,d720f5af-0516-408a-b830-0b6ffb8a581c,C.J. Schouten,ChristenUnie,Medeindiener
+3756db0b-6930-4254-877b-27c17b75c724,936edbde-4810-4ac3-9cf1-196535c9d939,62c1a13c-85ff-40ed-90f7-a9546d61f869,E.C. Vedder,CDA,Medeindiener
+375f2387-1aa5-45e9-a919-bd94a6ded19e,5980a827-0710-40d6-9a63-881abf345db5,65129918-f256-4975-9da4-488da34d6695,R. de Mos,PVV,Indiener
+37600ec5-0d48-47db-a736-623298e7033d,a99ab0f1-41f7-45d3-b09c-bf241da4c5dd,d720f5af-0516-408a-b830-0b6ffb8a581c,A. Slob,ChristenUnie,Indiener
+37626798-a640-4404-bb32-e0059ff16bb6,efb1a9e8-bbda-4a82-8d4b-ffef4337b611,62c1a13c-85ff-40ed-90f7-a9546d61f869,G.P.J. Koopmans,CDA,Indiener
+376b7632-7ce9-481e-9f6e-880932f1d1e4,5c4e45cc-f736-4e47-890d-e7e154cecf03,626555ac-e836-44e3-9978-a6a7f0abc3ce,C.A.M. van der Plas,BBB,Medeindiener
+376bead1-97ec-4424-b87e-a18d965fac0b,08bb03f6-76af-44e9-b5be-1fa867214bf8,77f9b6f1-b1a9-4d1b-a05e-9936e79d8fa5,C. Stoffer,SGP,Indiener
+3770f84b-9ea6-4b92-879a-bb02b85be247,4fcd130f-28ab-432e-b36a-ab3005175e62,a3689bb6-3914-4d5c-a6a8-42e24582e299,R.M. Leijten,SP,Indiener
+377c3491-3756-4c0a-a78e-225f1fc48c44,2dc6afd6-d2af-4bc1-b55c-45c79593a4c8,a3689bb6-3914-4d5c-a6a8-42e24582e299,F. Bashir,SP,Indiener
+377c7a0b-320b-42b6-9e08-8305fdb4cf1b,a103caaa-77ca-4a84-9d3a-86243e4e1e07,7476e97a-3243-4122-9df6-ba7d82a5279b,M.G.J. Harbers,VVD,Medeindiener
+377f1f3f-7b86-4e68-ad95-bebfcf6ee278,49777363-516b-4f1b-91c4-1cd3d64f2109,4e9f6f5b-2544-4667-8134-6b85c4ebb4e0,H. Dekker-Abdulaziz,D66,Indiener
+3780b3b0-d355-4b81-92ed-b71235e71acd,2d91ff1f-b36d-4fe2-976f-8b54ba632d5c,8140f3a2-f9c1-48a6-a0b2-7e6eb78b3006,W.R. van Haga,Van Haga,Medeindiener
+3783730c-92db-4d39-8c09-103adcd11332,90542cb8-e43b-4a87-b57e-93c709e6847e,77f9b6f1-b1a9-4d1b-a05e-9936e79d8fa5,R. Bisschop,SGP,Indiener
+378b3e99-6a6b-4830-b3dd-db9dc5bc8eef,9bc21a68-ebf5-4419-aef7-ebb9bac8ac5b,7476e97a-3243-4122-9df6-ba7d82a5279b,U. Ellian,VVD,Medeindiener
+378b41da-8415-485c-af5e-70e21c61ba95,8e92d0e9-f98a-4e44-8ea4-bef15c9fbc8a,7476e97a-3243-4122-9df6-ba7d82a5279b,D. Yeşilgöz-Zegerius,VVD,Medeindiener
+378ca1d2-01a9-4147-94f7-7a09cc152740,bc9a77a2-b9fd-4bd5-bc1a-f64902e9391a,4e9f6f5b-2544-4667-8134-6b85c4ebb4e0,S. Belhaj,D66,Medeindiener
+378e3914-6193-4340-9cda-3778aff568b9,d5c4472b-0fb5-4562-937b-4ea73ef9a1d3,a3689bb6-3914-4d5c-a6a8-42e24582e299,C. Laçin,SP,Medeindiener
+378f5ed0-8907-4db7-91fc-c7761114e7a8,3a1e4908-0c81-4205-a743-13231fceb0d2,8fd1a907-0355-4d27-8dc1-fd5a531b471e,S.C. Kröger,GroenLinks,Indiener
+3790d9f2-8d51-4c4b-8687-0f89e3efe223,e10d78d7-bd47-4a09-9d32-bdb163a6fefd,7476e97a-3243-4122-9df6-ba7d82a5279b,W.J.H. Lodders,VVD,Gericht aan
+3795358d-64e9-4ac6-8fa5-c845a8c8e15f,79625810-e21e-4d5f-a079-91c924e2d9c1,a3689bb6-3914-4d5c-a6a8-42e24582e299,E. Irrgang,SP,Indiener
+379ae628-e447-42e0-987a-904455ebbbeb,c74f7475-f9cd-4bfe-ace4-f7b9ba792feb,4e9f6f5b-2544-4667-8134-6b85c4ebb4e0,F.C.O. Klos,D66,Indiener
+379b52c5-0431-49e4-9378-b01985bba3c7,36f73350-c55b-457c-9528-97c7b32bba20,d3b4d880-ef37-4ce6-99ec-4940266ac466,E. Ouwehand,PvdD,Medeindiener
+37aa9607-103b-491c-8104-fc025518e4ae,95813692-703e-4d86-b4b0-4592af8d1506,d3b4d880-ef37-4ce6-99ec-4940266ac466,L. van Raan,PvdD,Indiener
+37af820b-36b8-42b9-a8e1-b1a9d57e2214,179e268c-2f6d-44b8-bc39-1e4f3ee44469,65129918-f256-4975-9da4-488da34d6695,G. Wilders,PVV,Indiener
+37b1025e-5703-47e5-b851-c595f7720dc6,1c388956-3c71-4364-a8ab-ae345a12b2a6,8fd1a907-0355-4d27-8dc1-fd5a531b471e,B.A.W. Snels,GroenLinks,Indiener
+37b5b1e0-20ee-414b-89bc-03da7b050229,f60114fc-950a-4284-af73-710872454ac3,65129918-f256-4975-9da4-488da34d6695,V. Maeijer,PVV,Indiener
+37c1df34-344c-4724-bb31-25cb0c2bb388,81d71e9a-c520-4c8a-9d30-649b07010f11,62c1a13c-85ff-40ed-90f7-a9546d61f869,R.W. Knops,CDA,Medeindiener
+37c2c10c-62dc-490e-90e3-de24531730b6,fc7e9f4e-5b2d-4a84-8677-807a22abcdf1,a3689bb6-3914-4d5c-a6a8-42e24582e299,R.M. Leijten,SP,Indiener
+37ceaf8e-f5d2-4829-880c-f14282339876,a2ced6b4-80cb-4186-b461-050fe8804875,77f9b6f1-b1a9-4d1b-a05e-9936e79d8fa5,C. Stoffer,SGP,Indiener
+37d174f9-787d-4a3f-a199-3f160f9e1a3d,0ca5191d-4a8b-4544-bc92-9d88da97389f,a3689bb6-3914-4d5c-a6a8-42e24582e299,P. Ulenbelt,SP,Indiener
+37daa6c1-2339-4577-83c9-3e0f918eee4e,2631cf56-2aeb-41ce-a8fe-9c55ef9af72b,a3689bb6-3914-4d5c-a6a8-42e24582e299,S. Karabulut,SP,Medeindiener
+37ddb9fe-ad95-4745-a42a-9bb87ad479ce,2de5f5ae-1050-41f9-8a39-23d12b0bd576,a3689bb6-3914-4d5c-a6a8-42e24582e299,M. van Nispen,SP,Indiener
+37e530a0-0db8-4f57-90aa-837afa94fc55,a93450dd-c356-48cd-be74-7140d124f212,d3b4d880-ef37-4ce6-99ec-4940266ac466,F.P. Wassenberg,PvdD,Medeindiener
+37ef0542-78a2-452e-867a-5ed42353bbd3,bd862b0d-eae1-4959-bd6a-c2a86ff2d61b,d3b4d880-ef37-4ce6-99ec-4940266ac466,M.L. Thieme,PvdD,Medeindiener
+37f08033-8e8d-4dd8-8d98-6cc9e57fea1b,84d28ca6-431c-449c-bef6-3ff2c6efedd1,7476e97a-3243-4122-9df6-ba7d82a5279b,C. Martens-America,VVD,Indiener
+37f4c09e-4eb4-4c18-8653-aec4acaa9b75,64f11652-9697-418b-b22a-cf60ad295389,8d46d23c-4f20-49be-b279-5439a2ef8d17,L. Ypma,PvdA,Indiener
+37fbc381-4f61-4d78-bfc5-de7024a0f630,f7cd5ae4-3f14-44d5-b5b3-6b42834c5e0b,a3689bb6-3914-4d5c-a6a8-42e24582e299,P. Ulenbelt,SP,Indiener
+37fcf889-2f92-4a2c-bf56-1e675f247985,7a666dac-6ed3-436f-8a6e-a21484000c8b,7476e97a-3243-4122-9df6-ba7d82a5279b,R.J. (Remco) Dijkstra,VVD,Medeindiener
+37fdc05e-7b94-4a77-829d-c5d6103dd83c,6d88b43a-9ee0-46f9-a17b-aba2b2ec3441,4e9f6f5b-2544-4667-8134-6b85c4ebb4e0,S.P.R.A. van Weyenberg,D66,Medeindiener
+37fdc151-91d6-47e0-9132-973ff9416aa0,66adf6ea-c30b-4c0a-ac7e-53f979365e46,62c1a13c-85ff-40ed-90f7-a9546d61f869,J.J.G.M. Biskop,CDA,Medeindiener
+37ff8c24-d741-4eae-887d-40be6106d552,e7c40ca1-dbe7-4912-945e-423d8e157f74,7476e97a-3243-4122-9df6-ba7d82a5279b,J. Houwers,VVD,Medeindiener
+38040578-7a1d-4c54-be2e-10d0c1913787,c2dc125c-ddea-4043-80a8-095b678a3b54,8d46d23c-4f20-49be-b279-5439a2ef8d17,J.W.M. Kerstens,PvdA,Medeindiener
+3805107f-c775-4dbb-93ff-6958add1c8d3,3901270e-d499-45b2-864d-a69798e8f206,8d46d23c-4f20-49be-b279-5439a2ef8d17,A.H. Kuiken,PvdA,Medeindiener
+380bca4b-4dc8-4f0e-91a3-f71cff55382f,cb4a185b-3ad0-460c-82b8-cd867ff773d2,7476e97a-3243-4122-9df6-ba7d82a5279b,G.A. van der Steur,VVD,Indiener
+3810e52e-ae52-4a1a-a3ad-89ab2b55e41e,fa45f584-9a1e-418c-8874-7f1838fb0612,8fd1a907-0355-4d27-8dc1-fd5a531b471e,L. van Tongeren,GroenLinks,Medeindiener
+381188dd-e3ad-4f92-824c-1b91fadc2fb2,6b60924f-e1a9-44da-b1a1-6faaa0ef4416,8d46d23c-4f20-49be-b279-5439a2ef8d17,R.F.A. Oosenbrug,PvdA,Indiener
+3813e60d-e7e1-4ff9-af38-95b8d17c7144,82e7539d-27f1-4198-8edf-b54e2cf80c18,fab6e7e1-9d63-446a-a6e1-e1c74e3f679e,D.J. van den Berg,JA21,Indiener
+381a3a33-d32a-4a32-8b57-0cc032fbcc52,e20a81ac-f992-4bf4-8b0b-ca3113b428f2,fab6e7e1-9d63-446a-a6e1-e1c74e3f679e,A. Nanninga,JA21,Medeindiener
+381ac9a1-90fa-47bd-a821-19b1bf00f0f4,1f880376-b309-4657-bd98-adf51dec9016,4e9f6f5b-2544-4667-8134-6b85c4ebb4e0,A.G. Schouw,D66,Indiener
+38243b86-82a4-4caf-a1f2-3af92cc3adca,70ff2f1a-d269-45df-a1c1-b442f99a4ca3,4e9f6f5b-2544-4667-8134-6b85c4ebb4e0,A.G. Schouw,D66,Indiener
+38248b2d-6d6f-4d94-8059-1434a7922a01,c8f011c2-b214-40b8-8d06-37e8d80d6dbb,626555ac-e836-44e3-9978-a6a7f0abc3ce,H. Vermeer,BBB,Medeindiener
+3827ca6f-b216-41d7-b099-3670101a8da2,f9b6fbfd-51a4-4e9f-9880-21cf006b3d9a,0208097d-ef04-438a-8c29-eebb84956204,H.E. de Hoop,GroenLinks-PvdA,Indiener
+382d8273-adc0-460a-abef-fc38af2ed462,5e06b28e-102c-4145-865b-02f8be710224,65129918-f256-4975-9da4-488da34d6695,S.R. Fritsma,PVV,Indiener
+38300703-42e0-40f3-b414-6367a9c3d18c,df5f23b6-7e2c-482f-a235-3f72ee5d66a8,848c3fca-8931-4236-8fe9-33b6a598fa4d,R.A.B. Claassen,Groep Markuszower,Indiener
+38308713-5ddb-4d38-86fa-20a75a616b05,d1095049-e65f-421c-93b7-9945f5fa755f,a3689bb6-3914-4d5c-a6a8-42e24582e299,A.M.V. Gerkens,SP,Indiener
+38340cab-8076-4330-b9da-ff395cf98523,3360745e-388e-433a-8a31-01fa857dd82b,a3689bb6-3914-4d5c-a6a8-42e24582e299,P.F.C. (Paulus) Jansen,SP,Indiener
+38347502-1691-4d99-a834-cb63b0442e67,1d034fdc-2102-43e4-8aa6-b130bc594351,8fd1a907-0355-4d27-8dc1-fd5a531b471e,L.G.J. Voortman,GroenLinks,Indiener
+38388fb5-79d9-468f-9853-878217c8d14b,1cb153e0-d9ac-4bb1-bb29-1f89ea4856cc,d3b4d880-ef37-4ce6-99ec-4940266ac466,F.P. Wassenberg,PvdD,Medeindiener
+3846b681-1cb6-43f1-9826-0c769dbe39f4,c4a55082-ede2-498a-a184-56c987da53cb,a3689bb6-3914-4d5c-a6a8-42e24582e299,S.E.M. Dobbe,SP,Indiener
+38481903-bd73-4c4b-b877-b55d329b1baf,c1b251aa-b63c-43f7-9af8-e694dd8f5f74,4e9f6f5b-2544-4667-8134-6b85c4ebb4e0,J.M. van Eijs,D66,Medeindiener
+384827d8-8bb9-447d-93f5-976fb44c569f,262bce52-94f1-4fb9-a491-3b89f7280e64,a3689bb6-3914-4d5c-a6a8-42e24582e299,R.M. Leijten,SP,Indiener
+384f8c37-7daa-41a8-b120-70003b2a9644,36cbe894-995c-4c68-a058-3aeb05c685dc,7476e97a-3243-4122-9df6-ba7d82a5279b,B. Visser,VVD,Indiener
+38508201-6412-4793-94d3-b8c62eae158f,852d1c51-9ff2-405a-be9d-c3a23879b95f,62c1a13c-85ff-40ed-90f7-a9546d61f869,I. (Inge) van Dijk,CDA,Indiener
+38519594-9ed7-4c11-8f7b-3557ae556c96,651f51c0-db61-48e7-9df6-2006fb6a145a,62c1a13c-85ff-40ed-90f7-a9546d61f869,H.A.G. Ronnes,CDA,Indiener
+3851c1db-78cd-448d-a9bd-ad7baec1a237,faf445a5-4670-4a11-97d0-913cc0cc3fc8,d720f5af-0516-408a-b830-0b6ffb8a581c,M.H. Bikker,ChristenUnie,Medeindiener
+38534ecb-6ac4-4f66-a066-0bb176766b93,a08b7b02-ded2-4a73-8749-7a5f0b4d0639,d3b4d880-ef37-4ce6-99ec-4940266ac466,L. van Raan,PvdD,Indiener
+385d5219-0991-4f09-9024-abfae3ea7fb8,3422d2b0-a8fb-4ddd-9af8-895c0fe96370,d720f5af-0516-408a-b830-0b6ffb8a581c,J.S. Voordewind,ChristenUnie,Medeindiener
+3863f0d5-29ab-4718-958f-38b82c864996,5cdd8a0a-d725-44ba-864c-24895deceb0c,77f9b6f1-b1a9-4d1b-a05e-9936e79d8fa5,E. Dijkgraaf,SGP,Medeindiener
+38644f3e-cce5-4aef-b934-bdedc16f9eec,b7bfe677-e246-4ae8-9845-9320492c5150,ae48391e-ce4d-47e0-86e3-ee310282f66f,L.A.J.M. Dassen,Volt,Medeindiener
+386a34c7-032e-41c1-b483-f4982712c2ea,8ecaf4a1-c352-47d5-95e9-8e9e5dbd22c4,8d46d23c-4f20-49be-b279-5439a2ef8d17,G.S.I.A. Tanamal,PvdA,Indiener
+3878aefd-ac15-4ac3-88d1-0d38871e38ba,25140672-ff64-4c1a-9f80-6c4dc14903cd,8fd1a907-0355-4d27-8dc1-fd5a531b471e,L.G.J. Voortman,GroenLinks,Indiener
+3882632a-d55a-480d-89a3-a16a22485a9d,de51cd0a-5d0b-4540-a8e7-d6df5579bcd2,a34bf6c8-834e-4dba-b4d2-f2f1b3957bd2,H.C.M. Krol,50PLUS,Indiener
+388fa59d-92ab-4384-9886-9d81e6b9d6d0,4bd428fa-d446-4fbe-befe-b8ad9b13bf8e,62c1a13c-85ff-40ed-90f7-a9546d61f869,J.G.L.M. Bühler,CDA,Indiener
+3893fffa-48a1-4895-a4ed-c5c200216d25,62eb59b1-34b0-40da-baf8-ba8f16ae9649,d3b4d880-ef37-4ce6-99ec-4940266ac466,E.M. van Esch,PvdD,Indiener
+38a2b6a1-833f-48f6-a4d8-90ff5c870155,e65aaa88-8c3c-427d-aedb-ed4d113133b8,62c1a13c-85ff-40ed-90f7-a9546d61f869,J.L. Geurts,CDA,Medeindiener
+38adb9d9-f6a6-4cd8-923c-fa1d8ac7736a,53d07ec1-71ac-4c64-9227-a323b701ad3c,7476e97a-3243-4122-9df6-ba7d82a5279b,J.Z.C.M. Tielen,VVD,Indiener
+38b2c319-1942-4163-b01f-8505e05a1bef,ba48d8ef-a91e-42c2-9772-21f923cb7285,62c1a13c-85ff-40ed-90f7-a9546d61f869,H.M. Krul,CDA,Medeindiener
+38b60ddd-747c-4df0-9cdb-aa273108656c,21b7d995-4d1e-420c-93c8-682974f1dfd2,4e9f6f5b-2544-4667-8134-6b85c4ebb4e0,S. van Veldhoven,D66,Indiener
+38b8b015-ba76-49e5-b4d0-883237dbb2db,d4a3e604-2d1d-4d63-9b85-ca70672d4c1b,deb74bb5-63a9-4ffc-98ed-af577167452e,T. Kuzu,DENK,Medeindiener
+38b94f5e-2e86-4547-88a0-81e82dd30b95,6f874dc4-f71b-4880-8a59-2f9551ecff73,d720f5af-0516-408a-b830-0b6ffb8a581c,P.A. Grinwis,ChristenUnie,Indiener
+38bb24a0-a854-4097-959e-c160084d2899,2b752a97-386e-4511-8fa3-b56c09b62725,a3689bb6-3914-4d5c-a6a8-42e24582e299,R.M. Leijten,SP,Indiener
+38bc5e76-d953-4605-a6c6-1d2afa2a5c74,0e996649-663b-490d-88bf-32c42250b7dc,8fd1a907-0355-4d27-8dc1-fd5a531b471e,H.J. Grashoff,GroenLinks,Indiener
+38bcf1e1-7138-4088-9df7-1ac1e75e6746,86f88813-f41e-4be9-8205-75a3730bff4a,a3689bb6-3914-4d5c-a6a8-42e24582e299,J.P. Kwint,SP,Indiener
+38be1582-0d16-46ec-935f-13f8706c4811,1e596366-3dd1-4dc5-99bd-df851f3c4d64,8fd1a907-0355-4d27-8dc1-fd5a531b471e,S.C. Kröger,GroenLinks,Medeindiener
+38bfe98c-9555-404b-a490-42f6efef57d8,0984c954-d385-45ab-928d-009e0a557ef4,d720f5af-0516-408a-b830-0b6ffb8a581c,A. Rouvoet,ChristenUnie,Indiener
+38c179de-c7bc-4125-9cd6-8a4f8f2022ce,31b67ad5-b42b-44d0-b3fd-ce09a16064a5,8d46d23c-4f20-49be-b279-5439a2ef8d17,A.M.C. Eijsink,PvdA,Indiener
+38c4a219-17f2-4b48-a268-93a3fdc6a006,3130b77b-be81-4e13-bbd6-0a30f4a37a9c,65129918-f256-4975-9da4-488da34d6695,S.R. Fritsma,PVV,Indiener
+38c9a773-1284-4a93-b128-4128f4d9f5a5,edea0c51-bcb4-493a-ab98-1106e02b30f0,8d46d23c-4f20-49be-b279-5439a2ef8d17,K. Arib,PvdA,Medeindiener
+38d0bef9-e1d4-4cdc-be2b-817f2e0655ff,97bbb1da-74a5-4137-851e-03231d590f4c,77f9b6f1-b1a9-4d1b-a05e-9936e79d8fa5,R. Bisschop,SGP,Indiener
+38d36142-7f07-423e-9381-3b379563da67,1e7ae342-e614-4adc-a8f2-849897970441,77f9b6f1-b1a9-4d1b-a05e-9936e79d8fa5,R. Bisschop,SGP,Medeindiener
+38d5694c-09f0-4036-b175-67ae116e8946,7dde1476-88f7-498c-924b-ea2a778c805d,65129918-f256-4975-9da4-488da34d6695,B. Madlener,PVV,Indiener
+38d8a976-2006-497e-92fc-6e02bc2678ed,e9c4e0ae-d73e-46f4-8996-b44f3be2fb75,d720f5af-0516-408a-b830-0b6ffb8a581c,J.S. Voordewind,ChristenUnie,Medeindiener
+38e05697-31e1-4fa2-a7b1-dce43df09f2e,ae8061ab-52ca-4b2a-a73e-77fcbf3932ec,626555ac-e836-44e3-9978-a6a7f0abc3ce,C.A.M. van der Plas,BBB,Indiener
+38e0cf5b-31db-4c41-a8cb-3a0134254f1c,f66d6a01-e829-4380-b97a-e5b17f841e94,8d46d23c-4f20-49be-b279-5439a2ef8d17,M. Mohandis,PvdA,Indiener
+38f538c4-ff3a-4aa4-98a4-fae8427a6058,212e4fe6-3825-4d55-bbe7-0c9d995d2827,4e9f6f5b-2544-4667-8134-6b85c4ebb4e0,B. van der Ham,D66,Indiener
+38fbe6dc-89c6-42db-a5e5-49e5580f347a,d0974e44-c4c0-45c7-bc71-b5b1752c2ba9,62c1a13c-85ff-40ed-90f7-a9546d61f869,P. Oskam,CDA,Medeindiener
+38ff8fca-ac28-4777-ad31-e3d7cdeeda1f,ee3f1ad9-3b5d-40de-8452-593641ef09be,fab6e7e1-9d63-446a-a6e1-e1c74e3f679e,D.R.F. Clemminck,JA21,Indiener
