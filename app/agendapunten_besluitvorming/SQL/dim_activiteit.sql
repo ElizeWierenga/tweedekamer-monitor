@@ -7,4 +7,4 @@ SELECT
 	aanvangstijd,
 	eindtijd
 FROM silver.activiteit
-LIMIT 100;
+LIMIT 40000;

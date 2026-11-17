@@ -8,4 +8,4 @@ SELECT
 		WHEN besluit_soort ILIKE '%aangehouden%' THEN 'aangehouden'
 	END AS uitkomst
 FROM silver.besluit
-LIMIT 100;
+LIMIT 40000;

@@ -3,4 +3,4 @@ SELECT
 	soort,
 	onderwerp
 FROM silver.zaak
-LIMIT 100;
+LIMIT 40000;

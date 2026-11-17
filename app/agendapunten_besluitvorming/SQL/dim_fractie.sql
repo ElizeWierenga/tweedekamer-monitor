@@ -9,4 +9,4 @@ SELECT
 	datum_actief,
 	datum_inactief
 FROM silver.fractie
-LIMIT 100;
+LIMIT 40000;

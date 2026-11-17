@@ -6,4 +6,4 @@ SELECT
 	actor_fractie,
 	relatie
 FROM silver.zaak_actor
-LIMIT 100;
+LIMIT 40000;

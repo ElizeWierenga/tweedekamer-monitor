@@ -8,5 +8,5 @@ FROM
 	LEFT JOIN silver.agendapunt ap ON ap.activiteit_id = a.id
 	LEFT JOIN silver.besluit b ON b.agendapunt_id = ap.id
 	LEFT JOIN silver.besluit_zaak bz ON bz.besluit_id = b.id
-	LEFT JOIN silver.zaak z ON bz.zaak_id = z.id		
-LIMIT 100;
+	LEFT JOIN silver.zaak z ON bz.zaak_id = z.id
+LIMIT 40000;
