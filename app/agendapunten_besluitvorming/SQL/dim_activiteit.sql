@@ -6,5 +6,4 @@ SELECT
 	datum_soort,
 	aanvangstijd,
 	eindtijd
-FROM silver.activiteit
-LIMIT 40000;
+FROM silver.activiteit;

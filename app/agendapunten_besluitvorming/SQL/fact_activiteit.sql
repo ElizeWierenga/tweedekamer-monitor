@@ -3,5 +3,4 @@ SELECT
 	datum,
 	datum_soort,
 	DATE_DIFF('minute', aanvangstijd, eindtijd) AS duur_minuten
-FROM silver.activiteit
-LIMIT 40000;
+FROM silver.activiteit;

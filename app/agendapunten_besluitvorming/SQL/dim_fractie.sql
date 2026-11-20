@@ -8,5 +8,4 @@ SELECT
 	END AS fractie_norm,
 	datum_actief,
 	datum_inactief
-FROM silver.fractie
-LIMIT 40000;
+FROM silver.fractie;
